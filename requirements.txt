@@ -1,0 +1,8 @@
+pypdf
+langchain_community
+langchain
+langchain_huggingface
+einops
+datasets
+chromadb
+onnxruntime
